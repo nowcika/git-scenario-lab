@@ -1,0 +1,2 @@
+FORMAT-PATCH-TRANSFER-2026
+이 기능은 이메일 patch로 전달됩니다.
