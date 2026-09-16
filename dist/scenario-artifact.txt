@@ -1,0 +1,2 @@
+ACTION-RELEASE-ASSET-2026
+GitHub Actions가 이 파일을 Release asset으로 첨부합니다.
