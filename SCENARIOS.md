@@ -18,7 +18,9 @@
 | 12 | `scenario/patch-source` | `solution/patch` | `format-patch`, `git am` |
 | 13 | `scenario/blame` | `solution/blame` | `git blame`, `git log -p` |
 | 14 | `scenario/branch-workflow` | `solution/branch-a/b` | `switch`, commit 이동, amend |
-| 15 | 완료 커밋 | `solution-v1.0.0` tag | annotated tag |
+| 15 | `scenario/actions-release` | `solution/actions-release` + `release-v1.0.0` | GitHub Actions, Release asset |
+| 16 | `scenario/pages` | `solution/pages` | GitHub Pages `/docs` 배포 |
+| 17 | 완료 커밋 | `solution-v1.0.0` tag | annotated tag |
 
 ## Remote 주소
 
